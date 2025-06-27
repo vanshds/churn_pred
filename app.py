@@ -1,8 +1,4 @@
-import sys
-import streamlit as st
 
-st.code(f"Python version: {sys.version}")
-st.code(f"Python path: {sys.executable}")
 
 import streamlit as st
 import pandas as pd
